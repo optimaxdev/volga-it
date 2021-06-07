@@ -1,0 +1,45 @@
+{
+    "count": 5,
+    "items": [
+        {
+            "name": "Elliot Black w/Gold",
+            "description": "The Elliot is a modern take on the iconic 1950\u2019s Browline style. Crafted from premium acetate and sporting sleek arms, silver accents and a retro monel bridge, this frame exudes a classic cool.",
+            "image": "https://optimaxdev.github.io/volga-it/assets/images/10033_f_2_1.jpg",
+            "mirror_frame": "https://optimaxdev.github.io/volga-it/assets/images/7134.png",
+            "width": 135,
+            "url": "/blackgold-medium/elliot/31-m10033.html"
+        },
+        {
+            "name": "Ottoto Bellona Tortoise w/Gold",
+            "description": "The Bellona is a stylish round frame that doesn't play by the rules. Crafted from premium acetate, it features a decorated monel bridge, elegant arms and adjustable silicone nose pads for a comfortable fit.",
+            "image": "https://optimaxdev.github.io/volga-it/assets/images/10736_f.jpg",
+            "mirror_frame": "https://optimaxdev.github.io/volga-it/assets/images/11304.png",
+            "width": 143,
+            "url": "/tortoisegold-large/ottoto-bellona/35-m10736.html" 
+        },
+        {
+            "name": "Muse Hopper Tortoise",
+            "description": "The Muse Hopper is a smart full-rim frame with a hint of cat-eye. It features a low saddle bridge, sleek rims and elegant arms with a rich hue.",
+            "image": "https://optimaxdev.github.io/volga-it/assets/images/9493_f.jpg",
+            "mirror_frame": "https://optimaxdev.github.io/volga-it/assets/images/15713.png",
+            "width": 135,
+            "url": "/tortoise-medium/muse-hopper/39-p9493.html" 
+        },
+        {
+            "name": "Weston Tortoise",
+            "description": "The Weston is a well-rounded frame for a well-rounded individual. Crafted from premium acetate, it flaunts monel temples and a rich tortoise hue.",
+            "image": "https://optimaxdev.github.io/volga-it/assets/images/31-p1996_f.jpg",
+            "mirror_frame": "https://optimaxdev.github.io/volga-it/assets/images/5349.png",
+            "width": 130,
+            "url": "/tortoise-medium/weston/31-p1996.html" 
+        },
+        {
+            "name": "Port Black",
+            "description": "The Port is an elegant frame crafted from premium acetate. Sporting sleek arms and an angular design this is your ultimate \"no fuss\" frame.",
+            "image": "https://optimaxdev.github.io/volga-it/assets/images/31-p1961_f_1.jpg",
+            "mirror_frame": "https://optimaxdev.github.io/volga-it/assets/images/4097.png",
+            "width": 138,
+            "url": "/blackgray-large\/port\/31-p1961.html"
+        }
+    ]
+}
